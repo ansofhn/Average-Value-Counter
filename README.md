@@ -1,2 +1,2 @@
 # Average-Value-Counter
-program ini berfungsi untuk menghitung nilai-nilai berdasarkan jumlah siswa yang diinginkan, men-totalkan semua nilai dan menghitung Rata-ratanya
+A simple program to calculate values based on the number of students desired, total all grades and calculate the Average
